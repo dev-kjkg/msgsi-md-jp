@@ -1,4 +1,6 @@
 ## 公式とは一切関係性がない。日本人向けに翻訳したものです
+公式はこちらです
+- https://github.com/MysticGSI/mysticgsi
 # MysticGSI
 
 Androidの純正ファームウェアからGSI（汎用システムイメージ）を作成するツールです。
